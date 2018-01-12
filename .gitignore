@@ -4,6 +4,7 @@
 .classpath
 .project
 .settings
+.idea/
 bin/
 target/
 pom.xml.tag
