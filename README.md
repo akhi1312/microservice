@@ -1,4 +1,4 @@
-Microservice Kafka Sample
+Ordering Microservice Kafka Sample
 ==================
 
 
